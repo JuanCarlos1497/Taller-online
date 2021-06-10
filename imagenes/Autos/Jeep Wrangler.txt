@@ -1,0 +1,29 @@
+Precio: Desde MXN750,900
+
+Tanque de combustible: 70 a 81 L
+Puertas: 3, 5
+Motor: 2.0 L 4 motor en línea, 3.6 L V6
+Pasajeros: 4, 5
+JEEP Wrangler 2016 Unlimited Sport 4x4 Automático
+Color Negro con vestiduras de Piel color Otro, transmisión Automática,dirección Asistida
+En condicíon: Excelente
+-Audio: Entrada auxiliar, 
+-Comfort: Espejo de vanidad, Altura del volante ajustable, Control automático de velocidad, Aire acondicionado, Desempañador trasero, Cristales tintados, 
+
+
+Chevrolet
+Camaro
+3.6 L V6, 6.2 L V8
+Automática de 8 & 10 velocidades
+Chevrolet Camaro 2020 Automóvil deportivo
+
+Jeep
+Wrangler
+2.0 L 4 motor en línea, 3.6 L V6
+Automática de 8 velocidades
+JEEP Wrangler 2016 Unlimited Sport 4x4 Automático
+
+'Mazda', 'SPORT', '2020', 'Negro', '4', 
+'', '', 
+'', '2', 
+'imagenes\\Autos\\Mazda6-Sport', ''
